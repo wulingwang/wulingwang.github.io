@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的日常</title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<p>天天开心</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="主歌1‌"><a href="#主歌1‌" class="headerlink" title="主歌1‌"></a>主歌1‌</h2><p>又是一个安静的晚上<br>一个人窝在摇椅里乘凉<br>我承认这样真的很安详<br>和楼下老爷爷一样<br>听说你还在搞什么原创<br>搞来搞去好像也就这样<br>不如花点时间想想<br>琢磨一下模样</p><h2 id="副歌1‌"><a href="#副歌1‌" class="headerlink" title="副歌1‌"></a>副歌1‌</h2><p>今夜化了美美的妆<br>（我相信是很美美的妆）<br>我摇晃在舞池中央<br>（那种体态可以想象）<br>我做我的改变又何必纠结<br>那就拜托别和我碰面<br>如果再看你一眼是否还会有感觉<br>当年素面朝天要多纯洁就有多纯洁<br>不画扮熟的眼线不用抹匀粉底液<br>暴雨天照逛街偷笑别人花了脸<br>如果再看你一眼是否还会有感觉<br>最真实的喜怒哀乐全都埋葬在昨天<br>不掺任何的表演轰轰烈烈那几年<br>我怀念别怀念怀念也回不到从前</p><h2 id="主歌2‌"><a href="#主歌2‌" class="headerlink" title="主歌2‌"></a>主歌2‌</h2><p>又是一个安静的晚上<br>一个人窝在摇椅里乘凉<br>我承认这样真的很安详<br>和楼下老爷爷一样<br>听说你还在搞什么原创<br>搞来搞去好像也就这样<br>不如花点时间想想<br>琢磨一下模样</p><h2 id="副歌2‌"><a href="#副歌2‌" class="headerlink" title="副歌2‌"></a>副歌2‌</h2><p>今夜化了美美的妆<br>（我相信是很美美的妆）<br>我摇晃在舞池中央<br>（那种体态可以想象）<br>我做我的改变又何必纠结<br>那就拜托别和我碰面<br>如果再看你一眼是否还会有感觉<br>当年素面朝天要多纯洁就有多纯洁<br>不画扮熟的眼线不用抹匀粉底液<br>暴雨天照逛街偷笑别人花了脸<br>如果再看你一眼是否还会有感觉<br>最真实的喜怒哀乐全都埋葬在昨天<br>不掺任何的表演轰轰烈烈那几年<br>我怀念别怀念怀念也回不到从前</p><h2 id="结尾‌"><a href="#结尾‌" class="headerlink" title="结尾‌"></a>结尾‌</h2><p>曾经对上的瞬间<br>难道是一种错觉<br>那些流逝了的就永远不会复现<br>不掺任何的表演轰轰烈烈那几年<br>有遗憾的感觉<br>为何感觉<br>那消失不见的素颜</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搜索栏</title>
+      <link href="/posts/27eb.html"/>
+      <url>/posts/27eb.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-search --save</span><br></pre></td></tr></table></figure><h1 id="可以在根-config-yml-中配置这个插件"><a href="#可以在根-config-yml-中配置这个插件" class="headerlink" title="可以在根 _config.yml 中配置这个插件"></a>可以在根 _config.yml 中配置这个插件</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">##Local Search本地搜索</span><br><span class="line">search:</span><br><span class="line">path: search.xml</span><br><span class="line">field: post</span><br><span class="line">format: html</span><br><span class="line">limit: 10000</span><br></pre></td></tr></table></figure><h1 id="修改-主题配置文件"><a href="#修改-主题配置文件" class="headerlink" title="修改 主题配置文件"></a>修改 主题配置文件</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">local_search:</span><br><span class="line">  enable: false</span><br><span class="line">  preload: false</span><br><span class="line">  CDN:</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 搜索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>字数统计</title>
+      <link href="/posts/337a.html"/>
+      <url>/posts/337a.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="打开-hexo-工作目录"><a href="#打开-hexo-工作目录" class="headerlink" title="打开 hexo 工作目录"></a>打开 hexo 工作目录</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-wordcount --save or yarn add hexo-wordcount</span><br></pre></td></tr></table></figure><h1 id="修改-主题配置文件"><a href="#修改-主题配置文件" class="headerlink" title="修改 主题配置文件:"></a>修改 主题配置文件:</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">wordcount:</span><br><span class="line">  enable: true</span><br><span class="line">  post_wordcount: true</span><br><span class="line">  min2read: true</span><br><span class="line">  total_wordcount: true</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 统计 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>blue</title>
+      <link href="/posts/1e39.html"/>
+      <url>/posts/1e39.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="主题安装"><a href="#主题安装" class="headerlink" title="主题安装"></a>主题安装</h2><h1 id="方式一-Github-推荐"><a href="#方式一-Github-推荐" class="headerlink" title="方式一(Github 推荐):"></a>方式一(Github 推荐):</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu</span><br></pre></td></tr></table></figure><h1 id="方式三-npm安装"><a href="#方式三-npm安装" class="headerlink" title="方式三(npm安装)"></a>方式三(npm安装)</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm i hexo-theme-anzhiyu</span><br></pre></td></tr></table></figure><h1 id="应用主题打开-Hexo-根目录下的-config-yml-找到以下配置项，把主题改为anzhiyu"><a href="#应用主题打开-Hexo-根目录下的-config-yml-找到以下配置项，把主题改为anzhiyu" class="headerlink" title="应用主题打开 Hexo 根目录下的 config.yml, 找到以下配置项，把主题改为anzhiyu"></a>应用主题打开 Hexo 根目录下的 config.yml, 找到以下配置项，把主题改为anzhiyu</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># Extensions</span><br><span class="line">## Plugins: https://hexo.io/plugins/</span><br><span class="line">## Themes: https://hexo.io/themes/</span><br><span class="line">theme: anzhiyu</span><br></pre></td></tr></table></figure><h1 id="安装-pug-和-stylus-渲染插件"><a href="#安装-pug-和-stylus-渲染插件" class="headerlink" title="安装 pug 和 stylus 渲染插件"></a>安装 pug 和 stylus 渲染插件</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><h1 id="本地启动-hexo"><a href="#本地启动-hexo" class="headerlink" title="本地启动 hexo"></a>本地启动 hexo</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo cl</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> anzhiyu </tag>
+            
+            <tag> 主题 </tag>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo部署</title>
+      <link href="/posts/123c.html"/>
+      <url>/posts/123c.html</url>
+      
+        <content type="html"><![CDATA[<h5 id="Hexo-本地部署"><a href="#Hexo-本地部署" class="headerlink" title="Hexo 本地部署"></a>Hexo 本地部署</h5><p>Hexo 是什么？</p><p>Hexo 是一个快速、简洁且高效的静态博客框架，它基于 Node.js 运行，可以将我们撰写的 Markdown 文档解析渲染成静态的 HTML 网页。</p><h5 id="一、安装-git官网地址：https-git-scm-com"><a href="#一、安装-git官网地址：https-git-scm-com" class="headerlink" title="一、安装 git官网地址：https://git-scm.com"></a>一、安装 git官网地址：<code>https://git-scm.com</code></h5><p>1.访问官方网站，下载对应的安装包，进行安装<br>2.安装完成后，鼠标右键可以看到：Git Bash Here, 点击后打开</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git --version        # 查看git版本</span><br></pre></td></tr></table></figure><h5 id="二、安装Node-js"><a href="#二、安装Node-js" class="headerlink" title="二、安装Node.js"></a>二、安装Node.js</h5><p>官网地址：<code>https://nodejs.org</code></p><p>访问nodejs官方网站，下载对应的安装包，进行安装<br>安装完成后，配置环境变量，并在终端里面输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">node -v       # 查看node.js版本</span><br></pre></td></tr></table></figure><h5 id="三、安装hexo"><a href="#三、安装hexo" class="headerlink" title="三、安装hexo"></a>三、安装hexo</h5><p>全局安装</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">yarn global add hexo-cli # yarn</span><br><span class="line">npm install -g hexo-cli# npm</span><br></pre></td></tr></table></figure><p>局部安装</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">yarn add hexo# yarn</span><br><span class="line">npm intall hexo # npm</span><br></pre></td></tr></table></figure><p>检查hexo 版本</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo -v       # 查看hexo版本</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm 的下载速度受到网络环境和源服务器的影响，如果存在 npm 命令执行非常慢的情况，可以使用国内的镜像源来加速下载</span><br></pre></td></tr></table></figure><p>查看镜像使用状态</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm config get registry  # 查看镜像使用状态</span><br><span class="line">如果返回 `https://registry.npmmirror.com` , 说明配置的是淘宝镜像</span><br></pre></td></tr></table></figure><p>初始化Hexo<br>新建一个blog文件夹，在这个文件夹中右键点开 Git Bash Here ，输入hexo init 下载相关文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure><p>生成静态网页</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo g         # 生成静态网页</span><br><span class="line">hexo s         # 本地预览  </span><br><span class="line">hexo clean     # 清除本地缓存</span><br></pre></td></tr></table></figure><p>在本地浏览器访问：<code>http://localhost:4000/</code></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo 本地部署 </tag>
+            
+            <tag> 安装网站 </tag>
+            
+            <tag> 安装node.js </tag>
+            
+            <tag> 安装hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
